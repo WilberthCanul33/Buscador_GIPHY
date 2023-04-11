@@ -1,7 +1,7 @@
 const url ='https://api.giphy.com/v1/gifs/search';
 let busqueda = "?q=";
 const key = '&api_key=3d9V1B1gGCHHAdnUFUh3rCOqn5hnphfZ';
-const limite ="&limit=10";
+const limite ="&limit=60";
 
 let q="";
 
