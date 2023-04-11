@@ -1,0 +1,23 @@
+#presentacion h1{
+    font-size: 5em;
+}
+
+#tamaño{
+    width: 700px;
+}
+
+@media (max-width: 576px) { 
+    #presentacion h1{
+        font-size: 3em;
+    }
+    #res{
+        display: flex;
+        flex-direction: column;
+    }
+    #tamaño{
+        width: 300px;
+        margin-bottom: 6em;
+    }
+}
+
+
